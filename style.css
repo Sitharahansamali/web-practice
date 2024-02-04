@@ -1,0 +1,147 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.page1{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    
+}
+.img1{
+    background-image: url(images/web1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 100%;
+}
+.page12{
+    text-align: center;
+    width: 50%;
+    height: 100%;
+
+}
+.page2{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(236, 201, 156);
+}
+.page3{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    /* border: 2px solid red; */
+}
+.page31{
+    width: 33.33%;
+    height: 60%;
+    /* border: 2px solid red; */
+    margin: 40px 60px;
+}
+.img31{
+    background-image: url(images/web2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+.img32{
+    background-image: url(images/web3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.img33{
+    background-image: url(images/web2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.page4{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: bisque;
+}
+.img41{
+    background-image: url(images/web3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    height: 100%;
+}
+.page41{
+    align-items: center;
+    text-align: center;
+    width: 50%;
+    height: 100%;
+}
+.page5{
+    width: 100vw;
+    height: 100vh;
+    /* border: 2px solid red; */
+}
+.page51{
+    width: 100%;
+    height: 100%;
+}
+.con1{
+    width: 100%;
+    height: 40%;
+    text-align: center;
+    font-size: 40px;
+    /* border: 2px solid red; */
+}
+.con3{
+    height: 60%;
+    width: 100%;
+    /* border: 2px solid red; */
+    display: flex;
+}
+.con4{
+    width: 33.33%;
+    height: 90%;
+    padding: 20px 20px;
+    /* border: 2px solid red; */
+}
+.page6{
+    background-color: antiquewhite;
+    width: 100vw;
+    height: 100vh;
+    /* border: 2px solid red; */
+}
+.pag61{
+    width: 100%;
+    height: 60%;
+    text-align: left;
+    margin: 5px 15px;
+}
+.pag62{
+    width: 100%;
+    height: 35%;
+    display: flex;
+}
+.pag63{
+    width: 33.33%;
+    height: 100%;
+    padding: 40px 60px;
+    /* border: 2px; */
+}
+.pag64{
+    width: 33.33%;
+    height: 100%;
+    padding: 40px 60px;
+    text-align: right;
+    font-size: 50px;
+    color: brown;
+}
